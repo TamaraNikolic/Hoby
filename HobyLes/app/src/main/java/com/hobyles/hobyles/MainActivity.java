@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 public static String URL="https://hobyles-d7b5c.firebaseio.com/";
     public Database mDatabase;
 
+    
     private EditText tvIme;
     private EditText tvPrezime;
     private  EditText tvTelefon;
